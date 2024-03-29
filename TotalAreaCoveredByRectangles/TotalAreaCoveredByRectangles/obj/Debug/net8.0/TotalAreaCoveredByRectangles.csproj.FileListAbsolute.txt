@@ -1,0 +1,15 @@
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\bin\Debug\net8.0\TotalAreaCoveredByRectangles.exe
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\bin\Debug\net8.0\TotalAreaCoveredByRectangles.deps.json
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\bin\Debug\net8.0\TotalAreaCoveredByRectangles.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\bin\Debug\net8.0\TotalAreaCoveredByRectangles.dll
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\bin\Debug\net8.0\TotalAreaCoveredByRectangles.pdb
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.sourcelink.json
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.dll
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\refint\TotalAreaCoveredByRectangles.dll
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.pdb
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\TotalAreaCoveredByRectangles.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\Katas\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\TotalAreaCoveredByRectangles\obj\Debug\net8.0\ref\TotalAreaCoveredByRectangles.dll
