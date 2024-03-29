@@ -17,6 +17,8 @@ Number of rectangles in one test (not including simple tests) range from 3000 to
 Sizes of the rectangles can reach values like 1e6.
 Example
 
+<img src="https://github.com/TheFreck/TotalAreaCoveredByRectangles/assets/36802104/2ab08eb8-0efe-4795-8729-e28c9e335a4b" style="width:300px;" />
+
 There are three rectangles:
 
 R1: [3,3,8,5], with area 10
