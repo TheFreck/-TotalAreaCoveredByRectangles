@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TotalAreaCoveredByRectangles.Specs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b48430a44a32032763d913203900871eeff17b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ff8baec8972d40057994cd6154d90c16b4bb9b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TotalAreaCoveredByRectangles.Specs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TotalAreaCoveredByRectangles.Specs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
