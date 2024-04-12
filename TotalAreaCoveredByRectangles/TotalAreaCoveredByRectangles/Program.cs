@@ -5,7 +5,7 @@ Console.WriteLine("How many rectangles?");
 var rects = Console.ReadLine();
 if(int.TryParse(rects, out var rectsCount))
 {
-    var rectangles = AreaFinder.GenerateRectangles(rectsCount); 
+    var rectangles = AreaFinder.GenerateRandomRectangles(rectsCount); 
     //var proceed = false;
     //var groups = rectangles.Select((r, i) => new { Index = i, Value = r }).GroupBy(r => r.Index / 1000).Select(r => r.Select(v => v.Value).ToList()).ToList();
     //var groupCount = 0;
